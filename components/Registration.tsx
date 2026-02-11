@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const Registration: React.FC = () => {
@@ -12,9 +11,9 @@ const Registration: React.FC = () => {
           <div className="w-full max-w-[700px] overflow-hidden rounded-2xl">
             {/* Embedded Google Form */}
             <iframe 
-              src="https://docs.google.com/forms/d/e/1FAIpQLSd36ppqZVOc8Y04QOIkSRa41JmOo83cYYilhN9zE5zaPsjuoA/viewform?embedded=true" 
+              src="https://docs.google.com/forms/d/e/1FAIpQLSdvn-Sk-sy4a9ccOAD1y7AvWpWS7ggV1w539Ry2M9cL_cuIUw/viewform?embedded=true" 
               width="100%" 
-              height="1450" 
+              height="1277" 
               frameBorder="0" 
               marginHeight={0} 
               marginWidth={0}
