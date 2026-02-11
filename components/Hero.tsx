@@ -50,7 +50,7 @@ const Hero: React.FC = () => {
                   }}
                 />
               </div>
-              <span className="text-[12px] font-black text-slate-400 uppercase tracking-[0.3em]">Main Sponsor</span>
+              <span className="text-[12px] font-black text-slate-400 uppercase tracking-[0.3em]"></span>
             </div>
 
             {/* Atorva Pill + Label */}
@@ -66,7 +66,7 @@ const Hero: React.FC = () => {
                   }}
                 />
               </div>
-              <span className="text-[12px] font-black text-slate-400 uppercase tracking-[0.3em]">Healthcare Partner</span>
+              <span className="text-[12px] font-black text-slate-400 uppercase tracking-[0.3em]"></span>
             </div>
             
           </div>
