@@ -1,10 +1,8 @@
-
 import React from 'react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Info from './components/Info';
 import Registration from './components/Registration';
-import Sponsors from './components/Sponsors';
 import Footer from './components/Footer';
 
 const App: React.FC = () => {
@@ -15,7 +13,6 @@ const App: React.FC = () => {
         <Hero />
         <Info />
         <Registration />
-        <Sponsors />
       </main>
       <Footer />
     </div>
